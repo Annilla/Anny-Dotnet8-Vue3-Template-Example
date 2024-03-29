@@ -1,4 +1,4 @@
-import { createMemoryHistory, createRouter } from 'vue-router'
+import { createWebHistory, createRouter } from 'vue-router'
 
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
@@ -12,11 +12,14 @@ const routes = [
         path: '/TheWelcome',
         component: TheWelcome
     },
-
+    {
+        path: '/:pathMatch(.*)*',
+        component: TheWelcome
+    },
 ]
 
 const router = createRouter({
-    history: createMemoryHistory(),
+    history: createWebHistory(),
     routes,
 })
 

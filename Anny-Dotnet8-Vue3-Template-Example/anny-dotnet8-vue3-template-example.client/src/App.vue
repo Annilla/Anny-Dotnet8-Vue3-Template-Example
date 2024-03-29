@@ -1,16 +1,23 @@
 <script setup>
+import { useCounterStore } from './store/couter.js'
+
+const store = useCounterStore()
 </script>
 
 <template>
   <header>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
-    <div class="wrapper">
+    <div>
       <RouterLink to="/TheWelcome">Go to TheWelcome</RouterLink>
       <RouterLink to="/HelloWorld">Go to HelloWorld</RouterLink>
-      <p>
+      <div>
         <strong>Current route path:</strong> {{ $route.fullPath }}
-      </p>
+      </div>
+      <h4>Store Test</h4>
+      <p>Count is {{ store.count }}</p>
+      <p>Double count is {{ store.doubleCount }}</p>
+      <button @click="store.increment()">Increment</button>
     </div>
   </header>
 
@@ -40,10 +47,5 @@ header {
     margin: 0 2rem 0 0;
   }
 
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
 }
 </style>

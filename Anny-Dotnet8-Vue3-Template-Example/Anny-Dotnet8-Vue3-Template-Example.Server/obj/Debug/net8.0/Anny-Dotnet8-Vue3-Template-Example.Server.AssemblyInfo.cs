@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anny-Dotnet8-Vue3-Template-Example.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+193bdc6c9232784a54f99e78bfbaad4b66561fec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57b40b1b16c4b8216647f076515104a45fae5471")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anny-Dotnet8-Vue3-Template-Example.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anny-Dotnet8-Vue3-Template-Example.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
