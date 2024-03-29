@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Anny-Dotnet8-Vue3-Template-Example.Server.props" />
-</Project>

@@ -7,26 +7,7 @@
             Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationvue">https://aka.ms/jspsintegrationvue</a> for more details.
         </div>
 
-        <div v-if="post" class="content">
-            <table>
-                <thead>
-                    <tr>
-                        <th>Date</th>
-                        <th>Temp. (C)</th>
-                        <th>Temp. (F)</th>
-                        <th>Summary</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr v-for="forecast in post" :key="forecast.date">
-                        <td>{{ forecast.date }}</td>
-                        <td>{{ forecast.temperatureC }}</td>
-                        <td>{{ forecast.temperatureF }}</td>
-                        <td>{{ forecast.summary }}</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+        <v-data-table v-if="post" :items="post" class="mt-5"></v-data-table>
     </div>
 </template>
 
@@ -67,28 +48,4 @@
 </script>
 
 <style scoped>
-th {
-    font-weight: bold;
-}
-tr:nth-child(even) {
-    background: #F2F2F2;
-}
-
-tr:nth-child(odd) {
-    background: #FFF;
-}
-
-th, td {
-    padding-left: .5rem;
-    padding-right: .5rem;
-}
-
-.weather-component {
-    text-align: center;
-}
-
-table {
-    margin-left: auto;
-    margin-right: auto;
-}
 </style>
