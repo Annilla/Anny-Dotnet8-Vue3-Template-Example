@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Anny-Dotnet8-Vue3-Template-Example.Server.props" />
+</Project>
