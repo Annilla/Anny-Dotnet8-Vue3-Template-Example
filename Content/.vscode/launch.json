@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Anny-Dotnet8-Vue3-Template-Example.Server/bin/Debug/net8.0/Anny-Dotnet8-Vue3-Template-Example.Server.dll",
+            "program": "${workspaceFolder}/anny-dotnet8-vue3-template-example.server/bin/Debug/net8.0/anny-dotnet8-vue3-template-example.server.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Anny-Dotnet8-Vue3-Template-Example.Server",
+            "cwd": "${workspaceFolder}/anny-dotnet8-vue3-template-example.server",
             "stopAtEntry": false,
             // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
             "serverReadyAction": {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anny-Dotnet8-Vue3-Template-Example.Server", "Anny-Dotnet8-Vue3-Template-Example.Server\Anny-Dotnet8-Vue3-Template-Example.Server.csproj", "{48F05918-54ED-4690-BB54-543B647D8F5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anny-dotnet8-vue3-template-example.server", "anny-dotnet8-vue3-template-example.server\anny-dotnet8-vue3-template-example.server.csproj", "{48F05918-54ED-4690-BB54-543B647D8F5B}"
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "anny-dotnet8-vue3-template-example.client", "anny-dotnet8-vue3-template-example.client\anny-dotnet8-vue3-template-example.client.esproj", "{8C88C424-3E2A-41F0-A510-49C51560BFF6}"
 EndProject

@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Anny-Dotnet8-Vue3-Template-Example.sln",
+                "${workspaceFolder}/anny-dotnet8-vue3-template-example.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Anny-Dotnet8-Vue3-Template-Example.sln",
+                "${workspaceFolder}/anny-dotnet8-vue3-template-example.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Anny-Dotnet8-Vue3-Template-Example.sln"
+                "${workspaceFolder}/anny-dotnet8-vue3-template-example.sln"
             ],
             "problemMatcher": "$msCompile"
         }

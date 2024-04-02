@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Anny Chang",
+    "classifications": [
+        "Web",
+        "MVC",
+        "SPA"
+    ],
+    "identity": "AnnyChang.Dotnet.Vue",
+    "name": "Anny Dotnet8 Vue3 Template Example",
+    "shortName": "annydotnet8vue3",
+    "sourceName": "anny-dotnet8-vue3-template-example",
+    "preferNameDirectory": true
+}
