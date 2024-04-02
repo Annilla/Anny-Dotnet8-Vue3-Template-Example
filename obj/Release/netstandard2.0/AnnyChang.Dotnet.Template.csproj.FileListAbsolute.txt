@@ -1,0 +1,11 @@
+D:\repos\Anny-Dotnet8-Vue3-Template-Example\bin\Release\netstandard2.0\AnnyChang.Dotnet.Template.deps.json
+D:\repos\Anny-Dotnet8-Vue3-Template-Example\bin\Release\netstandard2.0\AnnyChang.Dotnet.Template.dll
+D:\repos\Anny-Dotnet8-Vue3-Template-Example\bin\Release\netstandard2.0\AnnyChang.Dotnet.Template.pdb
+D:\repos\Anny-Dotnet8-Vue3-Template-Example\obj\Release\netstandard2.0\AnnyChang.Dotnet.Template.csproj.AssemblyReference.cache
+D:\repos\Anny-Dotnet8-Vue3-Template-Example\obj\Release\netstandard2.0\AnnyChang.Dotnet.Template.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Anny-Dotnet8-Vue3-Template-Example\obj\Release\netstandard2.0\AnnyChang.Dotnet.Template.AssemblyInfoInputs.cache
+D:\repos\Anny-Dotnet8-Vue3-Template-Example\obj\Release\netstandard2.0\AnnyChang.Dotnet.Template.AssemblyInfo.cs
+D:\repos\Anny-Dotnet8-Vue3-Template-Example\obj\Release\netstandard2.0\AnnyChang.Dotnet.Template.csproj.CoreCompileInputs.cache
+D:\repos\Anny-Dotnet8-Vue3-Template-Example\obj\Release\netstandard2.0\AnnyChang.Dotnet.Template.sourcelink.json
+D:\repos\Anny-Dotnet8-Vue3-Template-Example\obj\Release\netstandard2.0\AnnyChang.Dotnet.Template.dll
+D:\repos\Anny-Dotnet8-Vue3-Template-Example\obj\Release\netstandard2.0\AnnyChang.Dotnet.Template.pdb

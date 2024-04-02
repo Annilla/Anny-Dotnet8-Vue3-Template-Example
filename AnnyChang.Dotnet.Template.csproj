@@ -13,10 +13,11 @@
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
+    <NoDefaultExcludes>true</NoDefaultExcludes>
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="vueapp\**\*" Exclude="vueapp\**\bin\**;vueapp\**\obj\**" />
+    <Content Include="vueapp\**\*" Exclude="vueapp\**\node_modules\**;vueapp\**\bin\**;vueapp\**\obj\**" />
     <Compile Remove="**\*" />
   </ItemGroup>
 

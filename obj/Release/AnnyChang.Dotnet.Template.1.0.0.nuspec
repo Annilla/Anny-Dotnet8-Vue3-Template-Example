@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AnnyChang.Dotnet.Template</id>
+    <version>1.0.0</version>
+    <title>Anny Dotnet Template</title>
+    <authors>Anny Chang</authors>
+    <description>Template to use Dotnet8 Vue3.</description>
+    <tags>dotnet-new templates vue</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" commit="c146d90070be0e458e91ccd59bd519807daa047f" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.gitignore" target="content\vueapp\.gitignore" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.template.config\template.json" target="content\vueapp\.template.config\template.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vscode\launch.json" target="content\vueapp\.vscode\launch.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vscode\tasks.json" target="content\vueapp\.vscode\tasks.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\ProjectEvaluation\vueapp.metadata.v7.bin" target="content\vueapp\.vs\ProjectEvaluation\vueapp.metadata.v7.bin" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\ProjectEvaluation\vueapp.projects.v7.bin" target="content\vueapp\.vs\ProjectEvaluation\vueapp.projects.v7.bin" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\vueapp\config\applicationhost.config" target="content\vueapp\.vs\vueapp\config\applicationhost.config" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\vueapp\DesignTimeBuild\.dtbcache.v2" target="content\vueapp\.vs\vueapp\DesignTimeBuild\.dtbcache.v2" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\vueapp\FileContentIndex\575e7e05-9337-4914-a673-b21e1ef34312.vsidx" target="content\vueapp\.vs\vueapp\FileContentIndex\575e7e05-9337-4914-a673-b21e1ef34312.vsidx" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\vueapp\FileContentIndex\905f35f4-66d1-48be-a415-c084e544ac7d.vsidx" target="content\vueapp\.vs\vueapp\FileContentIndex\905f35f4-66d1-48be-a415-c084e544ac7d.vsidx" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\vueapp\FileContentIndex\91334f49-339d-4fca-8ee9-c4677fe6848c.vsidx" target="content\vueapp\.vs\vueapp\FileContentIndex\91334f49-339d-4fca-8ee9-c4677fe6848c.vsidx" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\vueapp\FileContentIndex\a5c7dc09-8e25-4412-adce-daff2906cc30.vsidx" target="content\vueapp\.vs\vueapp\FileContentIndex\a5c7dc09-8e25-4412-adce-daff2906cc30.vsidx" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\vueapp\FileContentIndex\f68a5867-a2aa-4689-b8e0-3a6f1055b610.vsidx" target="content\vueapp\.vs\vueapp\FileContentIndex\f68a5867-a2aa-4689-b8e0-3a6f1055b610.vsidx" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\vueapp\v17\.futdcache.v2" target="content\vueapp\.vs\vueapp\v17\.futdcache.v2" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\vueapp\v17\.suo" target="content\vueapp\.vs\vueapp\v17\.suo" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\.vs\vueapp\v17\DocumentLayout.json" target="content\vueapp\.vs\vueapp\v17\DocumentLayout.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\.eslintrc.cjs" target="content\vueapp\vueapp.client\.eslintrc.cjs" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\.gitignore" target="content\vueapp\vueapp.client\.gitignore" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\.vscode\extensions.json" target="content\vueapp\vueapp.client\.vscode\extensions.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\.vscode\launch.json" target="content\vueapp\vueapp.client\.vscode\launch.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\.vscode\settings.json" target="content\vueapp\vueapp.client\.vscode\settings.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\index.html" target="content\vueapp\vueapp.client\index.html" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\jsconfig.json" target="content\vueapp\vueapp.client\jsconfig.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\nuget.config" target="content\vueapp\vueapp.client\nuget.config" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\package-lock.json" target="content\vueapp\vueapp.client\package-lock.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\package.json" target="content\vueapp\vueapp.client\package.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\public\favicon.ico" target="content\vueapp\vueapp.client\public\favicon.ico" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\README.md" target="content\vueapp\vueapp.client\README.md" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\App.vue" target="content\vueapp\vueapp.client\src\App.vue" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\assets\base.css" target="content\vueapp\vueapp.client\src\assets\base.css" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\assets\logo.svg" target="content\vueapp\vueapp.client\src\assets\logo.svg" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\assets\main.css" target="content\vueapp\vueapp.client\src\assets\main.css" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\components\HelloWorld.vue" target="content\vueapp\vueapp.client\src\components\HelloWorld.vue" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\components\icons\IconCommunity.vue" target="content\vueapp\vueapp.client\src\components\icons\IconCommunity.vue" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\components\icons\IconDocumentation.vue" target="content\vueapp\vueapp.client\src\components\icons\IconDocumentation.vue" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\components\icons\IconEcosystem.vue" target="content\vueapp\vueapp.client\src\components\icons\IconEcosystem.vue" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\components\icons\IconSupport.vue" target="content\vueapp\vueapp.client\src\components\icons\IconSupport.vue" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\components\icons\IconTooling.vue" target="content\vueapp\vueapp.client\src\components\icons\IconTooling.vue" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\components\TheWelcome.vue" target="content\vueapp\vueapp.client\src\components\TheWelcome.vue" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\components\WelcomeItem.vue" target="content\vueapp\vueapp.client\src\components\WelcomeItem.vue" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\main.js" target="content\vueapp\vueapp.client\src\main.js" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\router.js" target="content\vueapp\vueapp.client\src\router.js" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\src\store\couter.js" target="content\vueapp\vueapp.client\src\store\couter.js" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\vite.config.js" target="content\vueapp\vueapp.client\vite.config.js" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.client\vueapp.client.esproj" target="content\vueapp\vueapp.client\vueapp.client.esproj" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.Server\appsettings.Development.json" target="content\vueapp\vueapp.Server\appsettings.Development.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.Server\appsettings.json" target="content\vueapp\vueapp.Server\appsettings.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.Server\Controllers\WeatherForecastController.cs" target="content\vueapp\vueapp.Server\Controllers\WeatherForecastController.cs" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.Server\Program.cs" target="content\vueapp\vueapp.Server\Program.cs" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.Server\Properties\launchSettings.json" target="content\vueapp\vueapp.Server\Properties\launchSettings.json" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.Server\vueapp.Server.csproj" target="content\vueapp\vueapp.Server\vueapp.Server.csproj" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.Server\vueapp.Server.csproj.user" target="content\vueapp\vueapp.Server\vueapp.Server.csproj.user" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.Server\vueapp.Server.http" target="content\vueapp\vueapp.Server\vueapp.Server.http" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.Server\WeatherForecast.cs" target="content\vueapp\vueapp.Server\WeatherForecast.cs" />
+    <file src="D:\repos\Anny-Dotnet8-Vue3-Template-Example\vueapp\vueapp.sln" target="content\vueapp\vueapp.sln" />
+  </files>
+</package>

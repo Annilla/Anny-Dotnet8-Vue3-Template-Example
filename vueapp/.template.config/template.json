@@ -9,6 +9,6 @@
     "identity": "AnnyChang.Dotnet.Vue",
     "name": "Anny Dotnet8 Vue3 Template Example",
     "shortName": "annydotnet8vue3",
-    "sourceName": "anny-dotnet8-vue3-template-example",
+    "sourceName": "vueapp",
     "preferNameDirectory": true
 }
