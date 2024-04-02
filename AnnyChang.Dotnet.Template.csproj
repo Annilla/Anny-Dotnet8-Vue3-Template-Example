@@ -16,7 +16,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="Content\**\*" Exclude="Content\**\bin\**;Content\**\obj\**" />
+    <Content Include="vueapp\**\*" Exclude="vueapp\**\bin\**;vueapp\**\obj\**" />
     <Compile Remove="**\*" />
   </ItemGroup>
 

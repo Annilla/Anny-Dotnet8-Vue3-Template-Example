@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Anny_Dotnet8_Vue3_Template_Example.Server.Controllers
+namespace vueapp.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

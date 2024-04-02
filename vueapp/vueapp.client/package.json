@@ -1,5 +1,5 @@
 {
-  "name": "anny-dotnet8-vue3-template-example.client",
+  "name": "vueapp.client",
   "version": "0.0.0",
   "private": true,
   "type": "module",

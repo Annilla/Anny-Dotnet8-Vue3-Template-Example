@@ -1,4 +1,4 @@
-namespace Anny_Dotnet8_Vue3_Template_Example.Server
+namespace vueapp.Server
 {
     public class WeatherForecast
     {

@@ -1,6 +1,0 @@
-@Anny_Dotnet8_Vue3_Template_Example.Server_HostAddress = http://localhost:5231
-
-GET {{Anny_Dotnet8_Vue3_Template_Example.Server_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
